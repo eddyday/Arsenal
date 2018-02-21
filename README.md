@@ -12,4 +12,6 @@ Although relatively simple, the app is using several advanced techniques. React 
 ## To do
 The individual player pages are a little sparse right now. The plan is to find an API delivering up to date player data and to parse the json data into fields, creating a comprehensive player info page. Alternatively, I will generate a JSON file with the necessary data and go from there.
 
+Introduce CSS Modules to clean up styling.
+
 
