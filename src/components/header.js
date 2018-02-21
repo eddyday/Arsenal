@@ -50,9 +50,9 @@ const Header = ( props ) => {
         				color: '#000000'	
       				} }
 				>
-					<h4
+					<h3
 						dangerouslySetInnerHTML={ { __html: ( username ) } }
-						style={ { marginBottom: '0.2em', marginTop: '0' } }
+						style={ { marginBottom: '0.2em', marginTop: '0', color:'#333333' } }
 					/>
 				</Link>
 				<p 

@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import Img from 'gatsby-image';
 // Internal
+
 import HeroHeader from '../components/hero-header'
 import Header from '../components/header';
 
