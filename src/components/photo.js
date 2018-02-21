@@ -22,6 +22,7 @@ const Photo = ( props ) => {
                     css={{
                         opacity: 1,
                         transition: "0.3s ease-in-out",
+                        boxShadow: '0px 2px 5px rgba(0,0,0,0.15)',
                         ':hover': {
                           opacity: 0.5,
                         }

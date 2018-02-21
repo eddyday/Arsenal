@@ -16,8 +16,8 @@ const PostTemplate = (props ) => {
 				<HeroHeader sizes={props.data.imageOne.sizes} />
 				<Header bio={bio} username={username} src={avatar} />
 				<div style={{ margin: '3rem auto', maxWidth: 800, padding: '0 2rem' }}>
-					<div style={{backgroundColor:'#ffffff', boxShadow: '0px 2px 5px rgba(0,0,0,0.15)', borderTop:'3px solid rgb(216, 9, 25)'}}> <h1 style={{ marginTop: '0', padding:'1em 1em 0.5em' }} dangerouslySetInnerHTML={{ __html: currentPage.title }} />
-					<Img sizes={currentPage.featured_media.localFile.childImageSharp.sizes} /></div>
+					<div style={{ backgroundColor: '#ffffff', boxShadow: '0px 2px 5px rgba(0,0,0,0.15)', borderTop: '3px solid rgb(216, 9, 25)' }}> <h1 style={{ marginTop: '0', padding: '1em 1em 0.5em' }} dangerouslySetInnerHTML={{ __html: currentPage.title }} />
+						<Img sizes={currentPage.featured_media.localFile.childImageSharp.sizes} /></div>
 					<div style={{ marginTop: '1.5rem' }} dangerouslySetInnerHTML={{ __html: currentPage.content }} />
 				</div>
 				<Footer />
