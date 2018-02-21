@@ -1,9 +1,11 @@
 import React from 'react';
 import Link from 'gatsby-link';
 
+
 // Internal
 import HeroHeader from '../components/hero-header';
 import Header from '../components/header';
+import Footer from '../components/footer';
 import PhotoRow from '../components/row';
 
 const IndexPage = ( props ) => {
@@ -51,6 +53,7 @@ const displayPhotos = () => {
       <HeroHeader sizes={props.data.imageOne.sizes} />
 			<Header bio={ bio } username={ username } src={ avatar } />
       { displayPhotos() }
+      <Footer />
 		</div>
 	)
 }

@@ -16,6 +16,7 @@
     "gatsby-transformer-json": "^1.0.15",
     "gatsby-transformer-sharp": "^1.6.19",
     "react-helmet": "^5.2.0",
+    "react-made-with": "^1.0.0",
     "react-share": "^2.0.0",
     "typography-theme-bootstrap": "^0.16.7",
     "typography-theme-grand-view": "^0.15.10",

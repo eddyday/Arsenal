@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import Img from 'gatsby-image';
 // Internal
-
+import Footer from '../components/footer'
 import HeroHeader from '../components/hero-header'
 import Header from '../components/header';
 
@@ -20,6 +20,7 @@ const PostTemplate = (props ) => {
 				<Img sizes={ currentPage.featured_media.localFile.childImageSharp.sizes } />
 				<div style={{marginTop:'1rem'}} dangerouslySetInnerHTML={{ __html: currentPage.content }} />
 				</div>
+				<Footer />
 			</div>
 		)
 }
