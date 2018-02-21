@@ -1,0 +1,143 @@
+{
+    "players": [{
+        "playerName": "Alex Oxlade Chamberlain",
+        "age": 24,
+        "position": "Midfielder",
+        "active": "false"
+    }, {
+        "playerName": "Alexandre Lacazette",
+        "age": 26,
+        "position": "Forward",
+        "active": "true"
+    }, {
+        "playerName": "Granit Xhaka",
+        "age": 25,
+        "position": "Midfielder",
+        "active": "true"
+    }, {
+        "playerName": "Sead Kolasinac",
+        "age": 24,
+        "position": "Defender",
+        "active": "true"
+    }, {
+        "playerName": "Olivier Giroud",
+        "age": 31,
+        "position": "Forward",
+        "active": "false"
+    }, {
+        "playerName": "Aaron Ramsey",
+        "age": 27,
+        "position": "Midfielder",
+        "active": "true"
+    }, {
+        "playerName": "Nacho Monreal",
+        "age": 31,
+        "position": "Defender",
+        "active": "true"
+    }, {
+        "playerName": "Mesut Ã–zil",
+        "age": 29,
+        "position": "Midfielder",
+        "active": "true"
+    }, {
+        "playerName": "HÃ©ctor BellerÃ­n",
+        "age": 22,
+        "position": "Defender",
+        "active": "true"
+    }, {
+        "playerName": "Mohamed Elneny",
+        "age": 25,
+        "position": "Midfielder",
+        "active": "true"
+    }, {
+        "playerName": "Theo Walcott",
+        "age": 28,
+        "position": "Forward",
+        "active": "false"
+    }, {
+        "playerName": "Petr Cech",
+        "age": 35,
+        "position": "Goalkeeper",
+        "active": "true"
+    }, {
+        "playerName": "Shkodran Mustafi",
+        "age": 25,
+        "position": "Defender",
+        "active": "true"
+    }, {
+        "playerName": "Reiss Nelson",
+        "age": 18,
+        "position": "Forward",
+        "active": "true"
+    }, {
+        "playerName": "Danny Welbeck",
+        "age": 27,
+        "position": "Forward",
+        "active": "true"
+    }, {
+        "playerName": "Rob Holding",
+        "age": 22,
+        "position": "Defender",
+        "active": "true"
+    }, {
+        "playerName": "Alex Iwobi",
+        "age": 21,
+        "position": "Midfielder",
+        "active": "true"
+    }, {
+        "playerName": "Laurent Koscielny",
+        "age": 32,
+        "position": "Defender",
+        "active": "true"
+    }, {
+        "playerName": "Alexis SÃ¡nchez",
+        "age": 29,
+        "position": "Forward",
+        "active": "false"
+    }, {
+        "playerName": "Francis Coquelin",
+        "age": 26,
+        "position": "Midfielder",
+        "active": "false"
+    }, {
+        "playerName": "Per Mertesacker",
+        "age": 33,
+        "position": "Defender",
+        "active": "true"
+    }, {
+        "playerName": "Jack Wilshere",
+        "age": 26,
+        "position": "Midfielder",
+        "active": "true"
+    }, {
+        "playerName": "Mohamed El Neny",
+        "age": 25,
+        "position": "Midfielder",
+        "active": "false"
+    }, {
+        "playerName": "Ainsley Maitland-Niles",
+        "age": 20,
+        "position": "Midfielder",
+        "active": "true"
+    }, {
+        "playerName": "Calum Chambers",
+        "age": 23,
+        "position": "Defender",
+        "active": "true"
+    }, {
+        "playerName": "Henrikh Mkhitaryan",
+        "age": 29,
+        "position": "Midfielder",
+        "active": "true"
+    }, {
+        "playerName": "Pierre-Emerick Aubameyang",
+        "age": 28,
+        "position": "Forward",
+        "active": "true"
+    }, {
+        "playerName": "David Ospina",
+        "age": 29,
+        "position": "Goalkeeper",
+        "active": "true"
+    }]
+}
