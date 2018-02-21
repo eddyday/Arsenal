@@ -5,7 +5,6 @@ kirkhamTheme.overrideThemeStyles = ({ rhythm }, options) => ({
     'h1, h3': {
       marginBottom: rhythm(1/2),
       marginTop: rhythm(2),
-      color: 'rgb(216, 9, 25)',
       fontFamily: 'Clearface Gothic LH'
     },
     'p': {
