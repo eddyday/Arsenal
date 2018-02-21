@@ -3,8 +3,6 @@ This is a project to test out Gatsby's advanced features. The aim was to build a
 
 Although relatively simple, the app is using several advanced techniques. React is at the core of the app and allows for blazing fast movement between pages. At build, a static site is generated, optimised for best performance. Some features include:
 
-* The grid layout on the homepage is created 
-
 * The individual player pages themselves are programmatically generated using Gatsby's createPages API, which itself leverages Flux's bindActionCreators API. In this example, I am using wordpress' slugs to generate the required slugs for the new pages. 
 
 * Advanced image-processing built into Gatsby allows for responsive images to be generated automagically, greatly boosting the load time. Images display with a blurred base64 as the correct images loads, ensuring the flow of the page is never disrupted.
