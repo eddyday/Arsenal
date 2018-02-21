@@ -7,6 +7,10 @@ kirkhamTheme.overrideThemeStyles = ({ rhythm }, options) => ({
       marginTop: rhythm(2),
       color: 'rgb(216, 9, 25)',
       fontFamily: 'Clearface Gothic LH'
+    },
+    'p': {
+        fontFamily: 'FF Meta Pro',
+        fontWeight: '200'
     }
   })
 

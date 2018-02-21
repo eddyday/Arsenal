@@ -18,7 +18,7 @@ const PostTemplate = (props ) => {
 				<div style={{ margin: '3rem auto', maxWidth: 800, padding: '0 2rem'}}>
 				<h1 style={{ marginTop: '1em' }} dangerouslySetInnerHTML={{ __html: currentPage.title }} />
 				<Img sizes={ currentPage.featured_media.localFile.childImageSharp.sizes } />
-				<div style={{marginTop:'1rem'}} dangerouslySetInnerHTML={{ __html: currentPage.content }} />
+				<div style={{marginTop:'1.5rem'}} dangerouslySetInnerHTML={{ __html: currentPage.content }} />
 				</div>
 				<Footer />
 			</div>

@@ -10,3 +10,14 @@
     font-weight: 500;
     font-style: normal;
 }
+@font-face {
+    font-family: 'FF Meta Pro';
+    src: url('FFMetaPro-Normal.eot');
+    src: url('FFMetaPro-Normal.eot?#iefix') format('embedded-opentype'),
+        url('FFMetaPro-Normal.woff2') format('woff2'),
+        url('FFMetaPro-Normal.woff') format('woff'),
+        url('FFMetaPro-Normal.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
