@@ -1,6 +1,5 @@
 import React from 'react';
 import Link from 'gatsby-link';
-import 'intersection-observer';
 
 // Internal
 import HeroHeader from '../components/hero-header';
