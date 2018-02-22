@@ -9,14 +9,14 @@ const Photo = ( props ) => {
 		<div
 			style={ {
 				width: 'calc( 100% / 3 )',
-				padding: '0.4em',
+				padding: '0.2em',
 			} }
 		>
 			<Link to={ props.link } >
 				<Img
                     sizes={ props.sizes }
 					style={ {
-						width: 'auto',
+						width: '100%',
 						height: 'auto',
                     } }
                     css={{

@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-default",
-  "description": "Gatsby default starter",
+  "name": "arsenal-player-listing",
+  "description": "Arsenal player listing",
   "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Edward Day",
   "dependencies": {
     "gatsby": "^1.9.202",
     "gatsby-cli": "^1.1.40",
@@ -15,10 +15,7 @@
     "gatsby-source-wordpress": "^2.0.57",
     "gatsby-transformer-json": "^1.0.15",
     "gatsby-transformer-sharp": "^1.6.19",
-    "intersection-observer": "^0.5.0",
-    "intersection-observer-polyfill": "^0.1.0",
     "react-helmet": "^5.2.0",
-    "react-made-with": "^1.0.0",
     "react-share": "^2.0.0",
     "typography-theme-bootstrap": "^0.16.7",
     "typography-theme-grand-view": "^0.15.10",

@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-//import './index.css';
+import Helmet from 'react-helmet';
 
 const TemplateWrapper = ( { children } ) => (
 	<div style={ { backgroundColor: '#f5f5f5', paddingBottom:'1rem' } }>
