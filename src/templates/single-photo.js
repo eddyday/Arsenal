@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import Img from 'gatsby-image';
-
+import 'intersection-observer';
 // Internal
 import Footer from '../components/footer'
 import HeroHeader from '../components/hero-header'

@@ -14,10 +14,10 @@ const HeroHeader = (props) => {
         style={{
           margin: '0 auto',
           maxWidth: '100%',
-          padding: '0.5rem 1.0875rem',
+          padding: '0.5rem 2rem',
           display: 'flex',
           alignItems: 'center',
-          justifyContent: 'center'
+          justifyContent: 'space-between'
         }}
       >
       <Link
@@ -30,6 +30,11 @@ const HeroHeader = (props) => {
 						height: 'auto',
                     } }
 				/>
+      </Link>
+      <Link
+			to='/'
+		>
+        <h4 style={{color:'white', margin:'0'}}>Index</h4>
       </Link>
       </div>
     </div>
