@@ -38,10 +38,6 @@ const Header = ( props ) => {
 				/>
 			</span>
 			<span
-				style={ {
-					flexBasis: '150px',
-					flexGrow: 1,
-				} }
 			>
 				<Link
 					to='/'
