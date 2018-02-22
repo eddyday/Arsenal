@@ -5,7 +5,7 @@ Although relatively simple, the app is using several advanced techniques. React 
 
 * The individual player pages themselves are programmatically generated using Gatsby's createPages API, which itself leverages Flux's bindActionCreators API. In this example, I am using wordpress' slugs to generate the required slugs for the new pages. 
 
-* Advanced image-processing built into Gatsby allows for responsive images to be generated automagically, greatly boosting the load time. Images display with a blurred base64 as the correct images loads, ensuring the flow of the page is never disrupted.
+* Advanced image-processing built into Gatsby allows for responsive images to be generated automagically, greatly improving the load time. Images display with a blurred base64 as the correct images loads, ensuring the flow of the page is never disrupted.
 
 * Multiple React components are used to build the pages. The header component replicates the header on instagram, with the avatar, bio and username being fetched from Wordpress using queries generated in GraphiQL.
 
